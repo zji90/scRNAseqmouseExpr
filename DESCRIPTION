@@ -1,0 +1,11 @@
+Package: scRNAseqmouseExpr
+Type: Package
+Title: single-cell RNA-seq Mouse Expression Data Package
+Version: 1.0.0
+Date: 2015-10-25
+Author: Zhicheng Ji, Hongkai Ji
+Maintainer: Zhicheng Ji <zji4@jhu.edu>
+Description: Contains pre-built mouse databases of single-cell RNA-seq gene expression profiles. The gene expression data was downloaded from NCBI GEO and preprocessed and normalized consistently. The biological context of each sample was recorded and manually verified based on the sample description in GEO.
+License: GPL (>=2)
+Depends: R (>= 2.10)
+
